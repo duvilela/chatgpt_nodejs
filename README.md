@@ -71,7 +71,7 @@ model: "text-davinci-003" ,  ( porém existem muitas).
 
 Adaptação, criação e Tradução:
 ```sh
-### - Adaptação: Everton Eduardo Vilela - EEV - "@duhvilela"
+### - Adaptação: - EEV
 ```
 
 
